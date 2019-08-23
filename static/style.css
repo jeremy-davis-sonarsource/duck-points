@@ -5,7 +5,7 @@ body {
 }
 
 .background {
-  background: url(/static/background.jpg);
+  background: url(background.jpg);
   animation-duration: 3s;
   animation-name: float;
   animation-iteration-count: infinite;

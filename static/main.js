@@ -35,7 +35,7 @@ function render() {
     name.innerText = duck.name;
     duck.points.split("").forEach((c, i) => {
       const uni = document.createElement("img");
-      uni.src = "/static/" + (icons[c] || icons.d);
+      uni.src = "static/" + (icons[c] || icons.d);
       points.appendChild(uni);
     });
   });
