@@ -1,7 +1,7 @@
 function render() {
   const ducks = [
     { name: "Wouter", points: "" },
-    { name: "Siegfried", points: "" },
+    { name: "Siegfried", points: "d" },
     { name: "Greg", points: "" },
     { name: "Philippe", points: "" },
     { name: "Jay", points: "" },
