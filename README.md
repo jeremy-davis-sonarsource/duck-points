@@ -16,4 +16,4 @@ const ducks = [
  - A `d` is a `duck`
  - Anything else generates a duck as well.
  
- After the change, commit directly to master, and save the cast URL again.
+ After the change, commit directly to master, and save the cast URL again (visit castor.local).
