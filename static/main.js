@@ -5,7 +5,8 @@ function render() {
     { name: "Greg", points: "d" },
     { name: "Philippe", points: "d" },
     { name: "Jay", points: "d" },
-    { name: "Pierre", points: "ud" }
+    { name: "Pierre", points: "ud" },
+    { name: "Xav", points: "u" },
   ];
 
   const icons = {
