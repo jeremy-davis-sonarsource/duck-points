@@ -28,8 +28,12 @@ td {
   padding: 2px 50px;
 }
 
+tr {
+  background: #ffffff80;
+}
+
 tr:nth-child(even) {
-  background: #fff200;
+  background: #fff20080;
 }
 
 tr img {
