@@ -14,6 +14,7 @@ const ducks = [
 
  - A `u` is a `unicorn`
  - A `d` is a `duck`
+ - A `p` is a `pizza`
  - Anything else generates a duck as well.
  
  After the change, commit directly to master, and save the cast URL again (visit castor.local).
