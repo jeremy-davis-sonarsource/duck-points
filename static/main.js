@@ -7,11 +7,14 @@ function render() {
     { name: "Jay", points: "d" },
     { name: "Pierre", points: "ud" },
     { name: "Xav", points: "u" },
+    { name: "Laura", points: "" },
+    { name: "Matt", points: "" }
   ];
 
   const icons = {
-    u: "unicorn.png",
-    d: "duck.png"
+    u: "unicorn",
+    d: "duck",
+    p: "pizza"
   };
 
   const body = document.body;
@@ -36,7 +39,7 @@ function render() {
     name.innerText = duck.name;
     duck.points.split("").forEach((c, i) => {
       const uni = document.createElement("img");
-      uni.src = "static/" + (icons[c] || icons.d);
+      uni.src = `static/icons/${icons[c] || icons.d}.png`;
       points.appendChild(uni);
     });
   });
