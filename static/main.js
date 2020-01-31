@@ -5,7 +5,7 @@ function render() {
     { name: "Greg", points: "d" },
     { name: "Philippe", points: "" },
     { name: "Jay", points: "" },
-    { name: "Pierre", points: "" },
+    { name: "Pierre", points: "u" },
     { name: "Xav", points: "" },
     { name: "Laura", points: "d" },
     { name: "Matt", points: "" }
