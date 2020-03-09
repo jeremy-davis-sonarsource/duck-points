@@ -18,3 +18,5 @@ const ducks = [
  - Anything else generates a duck as well.
  
  After the change, commit directly to master, and save the cast URL again (visit castor.local).
+
+It is available here:  jeremy-davis-sonarsource.github.io/duck-points 
