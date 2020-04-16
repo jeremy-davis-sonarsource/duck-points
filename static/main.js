@@ -1,12 +1,12 @@
 function render() {
   const ducks = [
     { name: "Wouter", points: "" },
-    { name: "Siegfried", points: "d" },
+    { name: "Siegfried", points: "dp" },
     { name: "Greg", points: "dd" },
     { name: "Philippe", points: "" },
     { name: "Jay", points: "" },
     { name: "Pierre", points: "u" },
-    { name: "Xav", points: "" },
+    { name: "Xav", points: "p" },
     { name: "Laura", points: "d" },
     { name: "Matt", points: "" }
   ];
