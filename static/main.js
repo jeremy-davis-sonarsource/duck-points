@@ -3,7 +3,7 @@ function render() {
     { name: "Wouter", points: "" },
     { name: "Siegfried", points: "dp" },
     { name: "Greg", points: "ddd" },
-    { name: "Philippe", points: "" },
+    { name: "Philippe", points: "d" },
     { name: "Jay", points: "" },
     { name: "Pierre", points: "u" },
     { name: "Xav", points: "p" },
