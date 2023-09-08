@@ -3,10 +3,11 @@ function render() {
     { name: "Wouter", points: "" },
     { name: "Greg", points: "" },
     { name: "Philippe", points: "" },
-    { name: "Jay", points: "" },
+    { name: "Jay", points: "1" },
     { name: "Pierre", points: "" },
     { name: "Laura", points: "" },
-    { name: "Loris", points: "" }
+    { name: "Loris", points: "" },
+    { name: "Andrey", points: "" }
   ];
 
   const icons = {
